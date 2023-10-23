@@ -1,0 +1,8 @@
+2023-10-23 14:03:00,229 INFO m.ApplicationManager [ApplicationManager.java:25] navigated to the url: https://ilcarro.web.app/search
+2023-10-23 14:03:00,232 INFO m.TestNGListener [TestNGListener.java:51] start test - onstart - : Gradle test
+2023-10-23 14:03:10,266 INFO t.BaseTest [BaseTest.java:52] stop method: positiveRegistration
+2023-10-23 14:03:10,267 INFO t.BaseTest [BaseTest.java:47] start method: positiveRegistration
+2023-10-23 14:03:10,268 INFO m.TestNGListener [TestNGListener.java:16] started test: positiveRegistration
+2023-10-23 14:03:12,435 INFO m.TestNGListener [TestNGListener.java:22] test success: positiveRegistration
+2023-10-23 14:03:12,458 INFO m.TestNGListener [TestNGListener.java:57] all code executed: passed tests: [ResultMap map=[[TestResult name=positiveRegistration status=SUCCESS method=RegistrationTests.positiveRegistration()[pri:0, instance:tests.RegistrationTests@bd4dc25] output={null}]]]
+2023-10-23 14:03:12,458 INFO m.TestNGListener [TestNGListener.java:58] all code executed: failed tests: [ResultMap map=[]]
